@@ -1,4 +1,0 @@
-{"text":"### Human: What is artificial intelligence?\n### Assistant: Artificial intelligence is the ability of computer systems to perform tasks that normally require human intelligence."}
-{"text":"### Human: What is machine learning?\n### Assistant: Machine learning is a branch of artificial intelligence where models learn patterns from data."}
-{"text":"### Human: What is LoRA?\n### Assistant: LoRA is a parameter-efficient fine-tuning method that trains small low-rank adapter matrices while keeping the base model mostly frozen."}
-{"text":"### Human: What is QLoRA?\n### Assistant: QLoRA combines quantization with LoRA so large language models can be fine-tuned with less GPU memory."}
